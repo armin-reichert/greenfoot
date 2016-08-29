@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=points
+comment0.target=int\ getPointsChange(int)
+comment1.params=life
+comment1.target=int\ getLifesChange(int)
+comment2.params=
+comment2.target=java.lang.String\ getConsumedMessage()
+comment3.params=
+comment3.target=greenfoot.GreenfootSound\ getConsumedSound()
+comment4.params=
+comment4.target=void\ consumed()
+numComments=5

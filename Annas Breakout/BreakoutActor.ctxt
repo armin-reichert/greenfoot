@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BreakoutActor()
+comment1.params=
+comment1.target=Vector\ getSpeed()
+comment2.params=speed
+comment2.target=void\ setSpeed(Vector)
+comment3.params=
+comment3.target=Breakout\ game()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=walls
+comment5.target=boolean\ onCollisionWithWalls(java.util.List)
+numComments=6

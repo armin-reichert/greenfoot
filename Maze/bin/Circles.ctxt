@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Circles()
+comment1.params=p
+comment1.target=java.awt.Color\ getPositionBgColor(java.lang.Integer)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=e
+comment3.target=void\ vertexChanged(org.zwickmann.graph.event.VertexEvent)
+comment4.params=e
+comment4.target=void\ edgeChanged(org.zwickmann.graph.event.EdgeEvent)
+comment5.params=e
+comment5.target=void\ graphChanged(org.zwickmann.graph.event.GraphEvent)
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StartScreen()
+comment1.params=actors\ y
+comment1.target=void\ addActorRow(java.util.List,\ int)
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Bereite\ die\ Welt\ f\u00FCr\ den\ Programmstart\ vor.\ Das\ hei\u00DFt\:\ Erzeuge\ die\ Anfangs-\r\n\ Objekte\ und\ f\u00FCge\ sie\ der\ Welt\ hinzu.\r\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=lifetime
+comment0.target=GameOver(int)
+comment1.params=playerName
+comment1.target=void\ setPlayerName(java.lang.String)
+comment2.params=points
+comment2.target=void\ setPoints(int)
+comment3.params=rank
+comment3.target=void\ setRank(int)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=world
+comment5.target=void\ addedToWorld(greenfoot.World)
+numComments=6

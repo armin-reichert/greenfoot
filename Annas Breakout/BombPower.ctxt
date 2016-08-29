@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=duration\ range
+comment0.target=BombPower(int,\ int)
+comment1.params=
+comment1.target=BombPower()
+comment2.params=
+comment2.target=void\ activate()
+comment3.params=
+comment3.target=void\ createIcon()
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=flashTime
+comment0.target=FlashMessageManager(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=text\ flashTime
+comment2.target=void\ showMessage(java.lang.String,\ int)
+comment3.params=text
+comment3.target=void\ showMessage(java.lang.String)
+comment4.params=text\ flashTime
+comment4.target=void\ showMessageInternal(java.lang.String,\ int)
+comment5.params=
+comment5.target=boolean\ isFlashMessageDisplayed()
+numComments=6

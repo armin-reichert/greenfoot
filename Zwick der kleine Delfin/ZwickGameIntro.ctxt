@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=ZwickGameIntro(ZwickGame)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ canceledByUser()
+comment3.params=
+comment3.target=void\ showInitialScreen()
+comment4.params=
+comment4.target=void\ showAnimation()
+comment5.params=
+comment5.target=void\ stop()
+numComments=6

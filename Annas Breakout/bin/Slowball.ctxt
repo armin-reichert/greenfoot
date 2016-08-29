@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=lifetime
+comment0.target=Slowball(int)
+comment1.params=balloon
+comment1.target=void\ onCollisionWithBalloon(Balloon)
+comment2.params=
+comment2.target=void\ onLifetimeFinished()
+numComments=3

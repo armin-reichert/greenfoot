@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=acc\ s
+comment0.target=java.lang.String\ emphasize(java.lang.String,\ java.lang.String)
+comment1.params=text\ action\ accelerator
+comment1.target=Button(java.lang.String,\ java.lang.Runnable,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.Runnable\ getAction()
+comment3.params=
+comment3.target=java.lang.String\ getAccelerator()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ createImage()
+numComments=6

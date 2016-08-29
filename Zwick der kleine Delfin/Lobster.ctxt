@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lobster()
+comment1.params=speed
+comment1.target=void\ setSpeed(int)
+comment2.params=
+comment2.target=int\ getSpeed()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=points
+comment4.target=int\ getPointsChange(int)
+comment5.params=lifes
+comment5.target=int\ getLifesChange(int)
+comment6.params=
+comment6.target=java.lang.String\ getConsumedMessage()
+comment7.params=
+comment7.target=greenfoot.GreenfootSound\ getConsumedSound()
+comment8.params=
+comment8.target=void\ consumed()
+comment9.params=
+comment9.target=void\ crawl()
+numComments=10

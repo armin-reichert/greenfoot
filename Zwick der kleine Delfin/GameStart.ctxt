@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=zwick
+comment0.target=GameStart(Zwick)
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+numComments=2

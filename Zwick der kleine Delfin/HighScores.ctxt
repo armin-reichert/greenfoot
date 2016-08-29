@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HighScores()
+comment1.params=
+comment1.target=java.io.File\ getHighScoresFile()
+comment2.params=
+comment2.target=HighScores\ read()
+comment3.params=
+comment3.target=void\ write()
+comment4.params=
+comment4.target=java.util.List\ getScores()
+comment5.params=date\ playerName\ points\ level
+comment5.target=void\ addScore(java.util.Date,\ java.lang.String,\ int,\ int)
+comment6.params=
+comment6.target=java.util.List\ getScoresDescending()
+comment7.params=x\ y
+comment7.target=int\ compare(Score,\ Score)
+comment8.params=points
+comment8.target=int\ getPointsRank(int)
+comment9.params=
+comment9.target=int[]\ getRanking()
+numComments=10

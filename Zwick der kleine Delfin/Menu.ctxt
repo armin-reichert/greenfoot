@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment1.params=text\ accelerator\ action
+comment1.target=void\ addItem(java.lang.String,\ java.lang.String,\ java.lang.Runnable)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+numComments=3

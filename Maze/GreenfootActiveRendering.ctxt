@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=grid\ edge
+comment0.target=void\ repaintEdge(org.zwickmann.grid.ObservableGrid,\ org.zwickmann.graph.Edge)
+comment1.params=grid
+comment1.target=void\ repaintGrid(org.zwickmann.grid.ObservableGrid)
+comment2.params=grid\ position
+comment2.target=void\ repaintVertex(org.zwickmann.grid.ObservableGrid,\ java.lang.Integer)
+numComments=3

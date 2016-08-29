@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=BetterWorld(int,\ int)
+comment1.params=enabled
+comment1.target=void\ setFlashMessagesEnabled(boolean)
+comment2.params=enabled
+comment2.target=void\ setFrameRateVisible(boolean)
+comment3.params=text
+comment3.target=void\ flash(java.lang.String)
+comment3.text=\r\n\ Adds\ a\ "flash"\ message\ to\ this\ world\ that\ disappears\ automatically\ after\r\n\ the\ time\ assigned\ to\ the\ message\ manager.\r\n\ \r\n\ @param\ String\r\n\ \ \ \ \ \ \ \ \ \ text\ the\ message\ text\r\n
+comment4.params=actor
+comment4.target=void\ addActorAtRandomLocation(greenfoot.Actor)
+comment4.text=\r\n\ Adds\ the\ given\ actor\ at\ a\ random\ world\ location.\r\n\ \r\n\ @param\ Actor\r\n\ \ \ \ \ \ \ \ \ \ actor\ the\ actor\ to\ be\ added\r\n
+numComments=5

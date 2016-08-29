@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Commons()
+comment1.params=actor
+comment1.target=void\ wrapActorAtWorldEdge(greenfoot.Actor)
+comment2.params=s\ n
+comment2.target=java.lang.String\ trim(java.lang.String,\ int)
+numComments=3

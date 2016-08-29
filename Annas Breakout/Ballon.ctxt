@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=imageName\ wert\ power\ speed\ turnDegrees
+comment0.target=Ballon(java.lang.String,\ int,\ Power,\ Vector,\ int)
+comment1.params=imageName\ wert\ power\ speed
+comment1.target=Ballon(java.lang.String,\ int,\ Power,\ Vector)
+comment2.params=imageName\ wert\ power
+comment2.target=Ballon(java.lang.String,\ int,\ Power)
+comment3.params=imageName
+comment3.target=Ballon(java.lang.String)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ pr\u00FCfeKollisionen()
+comment6.params=
+comment6.target=void\ pr\u00FCfeUnterenRand()
+comment7.params=ball
+comment7.target=void\ getroffen(Ball)
+numComments=8

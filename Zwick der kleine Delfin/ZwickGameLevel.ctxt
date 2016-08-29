@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=game\ levelNumber
+comment0.target=ZwickGameLevel(ZwickGame,\ int)
+comment1.params=
+comment1.target=int\ getLevelNumber()
+comment2.params=
+comment2.target=ZwickGame\ getGame()
+comment3.params=
+comment3.target=boolean\ endedWithSuccess()
+comment4.params=
+comment4.target=boolean\ endedWithFailure()
+numComments=5

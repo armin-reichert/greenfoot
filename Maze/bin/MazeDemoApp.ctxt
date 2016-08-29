@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ nextGenerator()
+comment1.params=configScreen
+comment1.target=MazeDemoApp(MazeDemoConfigScreen)
+comment10.params=seconds
+comment10.target=void\ sleep(int)
+comment11.params=
+comment11.target=void\ saveCanvasAsPNG()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=java.lang.String\ getInfoText()
+comment5.params=start
+comment5.target=void\ createMaze(java.lang.Integer)
+comment6.params=
+comment6.target=java.awt.image.BufferedImage\ getCanvas()
+comment7.params=renderingModel
+comment7.target=org.zwickmann.grid.rendering.AbstractGridRenderer\ createRenderer(org.zwickmann.grid.rendering.GridRenderingModel)
+comment8.params=
+comment8.target=void\ renderGrid()
+comment9.params=
+comment9.target=void\ clearCanvas()
+numComments=12

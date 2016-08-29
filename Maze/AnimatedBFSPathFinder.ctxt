@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=grid\ source\ renderer\ gridCellSize
+comment0.target=AnimatedBFSPathFinder(org.zwickmann.grid.BitGrid,\ java.lang.Integer,\ org.zwickmann.grid.rendering.GridRenderer,\ int)
+comment1.params=grid\ source\ renderer\ gridCellSize\ maxDistance
+comment1.target=AnimatedBFSPathFinder(org.zwickmann.grid.BitGrid,\ java.lang.Integer,\ org.zwickmann.grid.rendering.GridRenderer,\ int,\ int)
+comment2.params=
+comment2.target=org.zwickmann.graph.BreadthFirstTraversal\ getPathFinder()
+comment3.params=
+comment3.target=org.zwickmann.grid.rendering.DefaultGridRenderingModel\ getStyle()
+comment4.params=
+comment4.target=void\ execute()
+comment5.params=e
+comment5.target=void\ vertexChanged(org.zwickmann.graph.event.VertexEvent)
+comment6.params=e
+comment6.target=void\ edgeChanged(org.zwickmann.graph.event.EdgeEvent)
+comment7.params=e
+comment7.target=void\ graphChanged(org.zwickmann.graph.event.GraphEvent)
+numComments=8

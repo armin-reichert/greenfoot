@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=game\ level
+comment0.target=LevelBuilder(Breakout,\ int)
+comment1.params=
+comment1.target=void\ createLevel()
+comment2.params=rows
+comment2.target=void\ addRows(LevelBuilder.Row[])
+comment3.params=i\ options
+comment3.target=java.lang.String\ alt(int,\ java.lang.String[])
+comment4.params=von\ bis
+comment4.target=int\ rndInt(int,\ int)
+comment5.params=prozent
+comment5.target=Power\ rndPower(int)
+comment6.params=values
+comment6.target=java.lang.Object\ rndChoice(java.lang.Object[])
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ showDialog()
+comment1.params=
+comment1.target=HighScoresView()
+comment2.params=
+comment2.target=void\ updateData()
+comment3.params=
+comment3.target=void\ updateTableColumns()
+comment4.params=scoreList\ ranking
+comment4.target=javax.swing.table.TableModel\ createTableModel(java.util.List,\ int[])
+comment5.params=
+comment5.target=int\ getRowCount()
+comment6.params=
+comment6.target=int\ getColumnCount()
+comment7.params=i
+comment7.target=java.lang.Class\ getColumnClass(int)
+comment8.params=i
+comment8.target=java.lang.String\ getColumnName(int)
+comment9.params=row\ column
+comment9.target=java.lang.Object\ getValueAt(int,\ int)
+numComments=10
