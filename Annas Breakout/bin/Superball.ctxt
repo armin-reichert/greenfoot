@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=Superball()
-comment1.params=lifetime
-comment1.target=Superball(int)
-comment2.params=balloon
-comment2.target=void\ onCollisionWithBalloon(Balloon)
-numComments=3

@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=imageName\ wert\ power\ childImageNames
-comment0.target=CompositeBallon(java.lang.String,\ int,\ Power,\ java.lang.String[])
-comment1.params=ball
-comment1.target=void\ getroffen(Ball)
-comment2.params=childImage\ location
-comment2.target=void\ platziereKind(java.lang.String,\ Vector)
-numComments=3

@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=duration
-comment0.target=BigPaddlePower(int)
-comment1.params=
-comment1.target=BigPaddlePower()
-comment2.params=
-comment2.target=void\ activate()
-numComments=3

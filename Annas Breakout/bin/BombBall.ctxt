@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=range\ lifetime
-comment0.target=BombBall(int,\ int)
-comment1.params=
-comment1.target=BombBall()
-comment2.params=balloon
-comment2.target=void\ onCollisionWithBalloon(Balloon)
-numComments=3
